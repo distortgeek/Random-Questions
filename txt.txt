@@ -1,0 +1,10 @@
+5.    WAP to find the roots of a quadratic equation after receiving the coefficients of a quadratic equation from the user and display the results appropriately.
+7.    WAP to check if the number is a prime or composite number.
+8.    WAP to display the n terms of a Fibonacci series using iteration, where n is an integer received from the user.
+14.   WAP to determine whether a number is a perfect number, an armstrong number or a palindrome. 
+15.   WAP to accept a number from the user, convert it into a binary number and display it. (Note: bin function should not be used)  
+17.   WAP to count and display the number of vowels, consonants, uppercase, lowercase  characters in string.
+18.   WAP to Input a string and determine whether it is a palindrome or not also convert the  case of characters in a string.
+20.   WAP to input a list of numbers and swap elements at the even location with the  elements at the odd location.
+21.   WAP to input a list/tuple of elements, search for a given element in the list/tuple (without using in-built functions).
+22.   WAP to create a dictionary to store name (key) & marks of 5 subjects as Tuple (value) of n students of a class and display the names of students who have average marks above 75.
